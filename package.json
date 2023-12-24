@@ -1,0 +1,26 @@
+{
+  "name": "sparkles",
+  "version": "1.0.0",
+  "description": "sparkles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agi-Source-Code/sparkles.git"
+  },
+  "keywords": [
+    "ee",
+    "emitter",
+    "events",
+    "global",
+    "namespaced"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agi-Source-Code/sparkles/issues"
+  },
+  "homepage": "https://github.com/Agi-Source-Code/sparkles#readme"
+}
